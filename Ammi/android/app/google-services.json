@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601612463760",
+    "firebase_url": "https://ammiv1.firebaseio.com",
+    "project_id": "ammiv1",
+    "storage_bucket": "ammiv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601612463760:android:6a0cb6b98397ad51fcb215",
+        "android_client_info": {
+          "package_name": "com.scaryammi.ammi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601612463760-b41kv0h8nt7tsfm98lkjru95rjtag7im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArdUxfpkUOm2mDJU8UsJIekgGrhxZ5-rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601612463760-b41kv0h8nt7tsfm98lkjru95rjtag7im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
